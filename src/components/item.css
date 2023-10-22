@@ -1,0 +1,11 @@
+.info {
+    /* margin-left: 15px; */
+    font-size: 1.3rem;
+    display: flex;
+
+}
+
+.info div {
+    margin-left: 5px;
+    margin-left: 15px;
+}
